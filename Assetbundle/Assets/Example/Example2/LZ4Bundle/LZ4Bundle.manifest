@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2246952232
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animation
+      Dependencies: {}
+    Info_1:
+      Name: cube
+      Dependencies:
+        Dependency_0: materials
+    Info_2:
+      Name: cube1
+      Dependencies:
+        Dependency_0: animation
+    Info_3:
+      Name: materials
+      Dependencies:
+        Dependency_0: shader
+    Info_4:
+      Name: scene
+      Dependencies: {}
+    Info_5:
+      Name: shader
+      Dependencies: {}

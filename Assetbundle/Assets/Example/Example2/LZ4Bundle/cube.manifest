@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3135909229
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d2b1a1c791e31abcab8408aaf6bde89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ffe0311e20cd2b6b8ac4af1f92e0b2f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f3061c0ac84c4b10bb9848fefc9642e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Cube1.prefab
+Dependencies:
+- /Users/guolifeng/main/projects/Assetbundle/Assetbundle/Assets/Example/Example2/LZ4Bundle/materials

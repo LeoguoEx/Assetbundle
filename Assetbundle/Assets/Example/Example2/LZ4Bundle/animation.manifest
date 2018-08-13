@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2173631260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78c435534d95e7643ab90e711d61378a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43a4b7bca5993049df5a20320e1ab708
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/New Animation.anim
+Dependencies: []

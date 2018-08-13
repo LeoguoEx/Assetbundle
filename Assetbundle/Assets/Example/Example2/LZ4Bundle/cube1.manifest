@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1352072551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20d7f74796d696798f8817a6f43aa830
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb2886c665226b7d5ef1d7af12d36107
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Sphere.prefab
+Dependencies:
+- /Users/guolifeng/main/projects/Assetbundle/Assetbundle/Assets/Example/Example2/LZ4Bundle/animation

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2398047772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0949e9a435df583ae7dd112293c1fbcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/New Material.mat
+Dependencies:
+- /Users/guolifeng/main/projects/Assetbundle/Assetbundle/Assets/Example/Example2/LZ4Bundle/shader
